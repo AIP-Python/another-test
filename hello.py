@@ -1,3 +1,5 @@
 print("Hello World!")
 print('This is a Git test')
-print(5 + 9)
+
+a, b = [int(x) for x in input().split()]
+print(a + b)
