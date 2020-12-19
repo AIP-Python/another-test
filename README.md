@@ -2,9 +2,8 @@
 
 Another Git test
 
-You are welcome!
- (Or not)
+You are welcome! (Or not)
 
+**Some cool features are coming!**
 
-Some cool features are coming!
 Another change
